@@ -116,6 +116,6 @@ function writeFile(action, name, data, res) {
     
 }
 
-app.listen(7100, () => {
+app.listen(3000, () => {
     console.log("Server is running on port 3000");
 })
